@@ -1,0 +1,64 @@
+
+.seccion1 {
+  background-image: url(../images/image.jpg);
+  
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+
+
+.imag {
+    padding: 20% 2%;
+    
+}
+
+
+
+
+.start {
+    text-align: center;
+    color:white;
+
+}
+
+#footer {
+    background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
+    
+    
+    }
+    
+    #footer a {
+        color: white;
+    
+    }
+
+    .btn-highlight {
+        background-color: #97c93e !important; 
+        color: white;
+    
+    }
+    
+    
+    .btn-highlight:hover {
+        background-color: #82ad36; 
+    }
+
+
+    .bg-light {
+        background-color: white !important;
+    }
+
+  .nav-item {
+    color: white;
+  }
+  a {
+    color: white;
+}
+
+p {
+    font-size: x-large;
+    justify-content: left;
+}
